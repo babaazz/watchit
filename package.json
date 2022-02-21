@@ -1,0 +1,14 @@
+{
+  "name": "watchit",
+  "version": "1.0.0",
+  "description": "This is a project to learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunil Chauhan",
+  "license": "ISC",
+  "bin": {
+    "watchit": "index.js"
+  }
+}
